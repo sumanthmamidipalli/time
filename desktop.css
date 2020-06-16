@@ -301,7 +301,7 @@ a:active {
 }
 .location {
   display: inline-block;
-
+  color:#8a8a8a;
   font-family: sans-serif;
   margin-left: 0.4rem;
   display: inline;
